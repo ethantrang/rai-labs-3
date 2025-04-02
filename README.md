@@ -1,7 +1,7 @@
 
 # Relevance AI Labs 3
 
-# Useful links
+## Useful links
 
 Airtable
 - https://airtable.com/appTuHUEEm8YyoQXA/api/docs#curl/introduction
